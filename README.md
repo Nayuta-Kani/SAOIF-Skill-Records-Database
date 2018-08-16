@@ -51,7 +51,8 @@ Present the data in the following form (Copy and paste, then replace the [Insert
 
 ```
 
-###If it's a passive skill...
+### If it's a passive skill...
+
 \#1 = the character name E.g. `Asuna`, `Silica`, `Agil` etc.
 
 \#2 = the english skill record name with no spaces and in lowercase. E.g. `longhair`

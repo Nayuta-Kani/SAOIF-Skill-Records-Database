@@ -88,3 +88,20 @@ Present the data in the following form (Copy and paste, then replace the [Insert
 ```
 
 4) Send the completed data by DMing me on discord (Nayuta Kani#0002) or [make an issue here on github and put it here](https://github.com/Nayuta-Kani/SAOIF-Skill-Records-Database/issues/new)!
+
+## Example submission:
+Character: Asuna
+```
+<div class="longhair">
+  <p class="name">Long Hair (ラブリーウインク)</p>
+  <p class="rarity">:star::star::star::star:</p>
+  <p class="atk">52</p>
+  <p class="def">56</p>
+  <p class="hp">865</p>
+  <p class="cost">16</p>
+  <p class="equipment">passive(アビリティ)</p>
+  <p class="effect">[Enhance Defense 4] Defense increase by 8%, [Fluff Step 4] Defence+ with each hit
+     [防御強化4] 防御力が8%上昇, [フラッフステップ4] HIT数が多い程、防御力が上昇
+  <img src="https://i.imgur.com/tMswyZ0.png" class="thumbnail"></img>
+</div>
+```

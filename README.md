@@ -3,6 +3,7 @@
 A WIP database for all SAOIF data, used by [Yui](https://nayu.fun/yuibot). Created specially for the Sword Art Online:Integral Factor Discord Server
 
 Server link: https://discord.gg/IntegralFactor
+
 Yui's website: https://nayu.fun/yuibot
 
 ## How to Help?

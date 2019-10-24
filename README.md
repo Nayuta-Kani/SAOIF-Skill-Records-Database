@@ -6,6 +6,12 @@ Server link: https://discord.gg/IntegralFactor
 
 Yui's website: https://nayu.fun/yuibot
 
+## Usage of images on this repository
+
+You're free to use the image resources for your projects, but please **credit the sources**. Many dataminers spend significant amounts of their time to datamine images, so please give the due respect!
+
+Images in this repository *may* be watermarked if due credits are not given.
+
 ## How to Help?
 
 Firstly, thanks for offering! It's really good to have helping hands :D
@@ -16,5 +22,8 @@ Anyways, helping is rather easy if you know your stuff! PM me the data on discor
 
 ## What data do you need?
 
-Well, 2 things! Banner images, and skill record images!
-
+Well, a few things! 
+1) Banner images
+2) Skill record images
+3) Skill animations
+4) Item images

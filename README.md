@@ -27,3 +27,9 @@ Well, a few things!
 2) Skill record images
 3) Skill animations
 4) Item images
+
+## Disclaimer
+
+All image assets belong to Bandai Namco Entertainment. 
+
+We do not own any of the image assets, we only extract and host it in this repo for non-commercial use. Resources here are provided **as is**, and we do not take any responsibility whatsoever should one uses resources hosted in this repository, including legal matters.

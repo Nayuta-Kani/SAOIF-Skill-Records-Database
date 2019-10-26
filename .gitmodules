@@ -1,0 +1,3 @@
+[submodule "privatetest"]
+	path = privatetest
+	url = git@github.com:Nayuta-Kani/privatetest.git

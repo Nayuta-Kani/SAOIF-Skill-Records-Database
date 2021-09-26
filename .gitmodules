@@ -1,6 +1,1 @@
-[submodule "privatetest"]
-	path = privatetest
-	url = git@github.com:Nayuta-Kani/privatetest.git
-[submodule "originals"]
-	path = originals
-	url = git@github.com:Nayuta-Kani/SAOIF-Database-Originals.git
+

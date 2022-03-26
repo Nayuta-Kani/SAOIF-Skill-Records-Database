@@ -7999,5 +7999,41 @@
         "rarity": 4,
         "name": "[Small Great Harvest] Sachi",
         "weapon_type": "2H Spear"
+    },
+    "6000945": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Black-Winged Sniper] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6000946": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[Demon Rulekeeper] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6000947": {
+        "midpoint": [
+            15,
+            143
+        ],
+        "rarity": 4,
+        "name": "[Dazzling Divine Power] Koharu",
+        "weapon_type": "1H Rapier"
+    },
+    "6000948": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Black Demon Shugenja] Leafa",
+        "weapon_type": "Passive"
     }
 }

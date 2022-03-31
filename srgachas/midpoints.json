@@ -8053,5 +8053,50 @@
         "rarity": 4,
         "name": "[A Dazzling Ball] Philia",
         "weapon_type": "Passive"
+    },
+    "6001060": {
+        "midpoint": [
+            15,
+            143
+        ],
+        "rarity": 3,
+        "name": "[Goddess of Mayhem] Lisbeth",
+        "weapon_type": "Passive"
+    },
+    "6001061": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Pure Love Letter] Eugeo",
+        "weapon_type": "1H Rapier"
+    },
+    "6001062": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Blue-Eyed Lady] Eugeo",
+        "weapon_type": "1H Sword"
+    },
+    "6001063": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Fake Order] Eugeo",
+        "weapon_type": "Passive"
+    },
+    "6001064": {
+        "midpoint": [
+            15,
+            132
+        ],
+        "rarity": 4,
+        "name": "[Fake Lady] Eugeo",
+        "weapon_type": "2H Axe"
     }
 }

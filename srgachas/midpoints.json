@@ -8098,5 +8098,41 @@
         "rarity": 4,
         "name": "[Fake Lady] Eugeo",
         "weapon_type": "2H Axe"
+    },
+    "6001065": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Knight's Pride] Alice",
+        "weapon_type": "1H Sword"
+    },
+    "6001066": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Rulid's Protector] Alice",
+        "weapon_type": "Passive"
+    },
+    "6001067": {
+        "midpoint": [
+            15,
+            134
+        ],
+        "rarity": 4,
+        "name": "[Invincible Sword] Eugeo",
+        "weapon_type": "1H Sword"
+    },
+    "6001068": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Cuddly Heart] Eugeo",
+        "weapon_type": "Passive"
     }
 }

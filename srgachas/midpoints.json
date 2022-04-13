@@ -8134,5 +8134,23 @@
         "rarity": 4,
         "name": "[Cuddly Heart] Eugeo",
         "weapon_type": "Passive"
+    },
+    "6001069": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Slashing Darkness] Leafa",
+        "weapon_type": "1H Sword"
+    },
+    "6001070": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Starry Sky Dance] Leafa",
+        "weapon_type": "2H Axe"
     }
 }

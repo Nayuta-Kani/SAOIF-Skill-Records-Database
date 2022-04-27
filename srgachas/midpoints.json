@@ -8188,5 +8188,41 @@
         "rarity": 4,
         "name": "[Tune that Transcends Time] Yuuki",
         "weapon_type": "2H Spear"
+    },
+    "6001079": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Evangelical Cantata] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001080": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Lively Agilita] Leafa",
+        "weapon_type": "Passive"
+    },
+    "6001081": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Thoughtful Toccata] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001082": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Finale Cadenza] Sachi",
+        "weapon_type": "2H Spear"
     }
 }

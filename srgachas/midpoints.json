@@ -8224,5 +8224,176 @@
         "rarity": 4,
         "name": "[Finale Cadenza] Sachi",
         "weapon_type": "2H Spear"
+    },
+    "6000887": {
+        "midpoint": [
+            15,
+            131
+        ],
+        "rarity": 4,
+        "name": "[Warrior of the Wok] Kirito",
+        "weapon_type": "Passive"
+    },
+    "6000888": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Speedy Slicing & Dicing] Yuuki",
+        "weapon_type": "Dagger"
+    },
+    "6000889": {
+        "midpoint": [
+            15,
+            137
+        ],
+        "rarity": 4,
+        "name": "[Inviting Advertisement Girl] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6000890": {
+        "midpoint": [
+            15,
+            130
+        ],
+        "rarity": 4,
+        "name": "[Delicious Temptation] Sanya",
+        "weapon_type": "1H Sword"
+    },
+    "6000932": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Unhateable Monster] Koharu",
+        "weapon_type": "1H Rapier"
+    },
+    "6000933": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Hero of Ice] Eugeo",
+        "weapon_type": "2H Axe"
+    },
+    "6000934": {
+        "midpoint": [
+            15,
+            124
+        ],
+        "rarity": 4,
+        "name": "[Foodie on the Side] Sachi",
+        "weapon_type": "2H Spear"
+    },
+    "6000935": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Powerful Transport] Klein",
+        "weapon_type": "Passive"
+    },
+    "6001083": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[One Job Down] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001084": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Ardent Request] Lisbeth",
+        "weapon_type": "Passive"
+    },
+    "6001085": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Declaration of Victory] Yuuki",
+        "weapon_type": "1H Sword"
+    },
+    "6001086": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Put Your Heart Into It] Yuuki",
+        "weapon_type": "1H Sword"
+    },
+    "6001095": {
+        "midpoint": [
+            15,
+            133
+        ],
+        "rarity": 4,
+        "name": "[Unexpected Potential] Stilla",
+        "weapon_type": "Dagger"
+    },
+    "6001097": {
+        "midpoint": [
+            15,
+            136
+        ],
+        "rarity": 4,
+        "name": "[The Way to Happiness] Alice",
+        "weapon_type": "Passive"
+    },
+    "6001098": {
+        "midpoint": [
+            15,
+            147
+        ],
+        "rarity": 4,
+        "name": "[Endless Blessing] Lisbeth",
+        "weapon_type": "2H Axe"
+    },
+    "6001099": {
+        "midpoint": [
+            15,
+            132
+        ],
+        "rarity": 4,
+        "name": "[Absolute Vow] Sachi",
+        "weapon_type": "2H Spear"
+    },
+    "6001100": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Bride of Passion] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001101": {
+        "midpoint": [
+            15,
+            137
+        ],
+        "rarity": 4,
+        "name": "[A Sense for Secrets] Argo",
+        "weapon_type": "Dagger"
+    },
+    "6001102": {
+        "midpoint": [
+            15,
+            131
+        ],
+        "rarity": 4,
+        "name": "[Street Corner Informant] Argo",
+        "weapon_type": "Passive"
     }
 }

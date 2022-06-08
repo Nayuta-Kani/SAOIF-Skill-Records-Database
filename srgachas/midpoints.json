@@ -8395,5 +8395,41 @@
         "rarity": 4,
         "name": "[Street Corner Informant] Argo",
         "weapon_type": "Passive"
+    },
+    "6000711": {
+        "midpoint": [
+            15,
+            148
+        ],
+        "rarity": 4,
+        "name": "[Bloodthirsty Hunter] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6000712": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Undead Sister] Leafa",
+        "weapon_type": "Passive"
+    },
+    "6000713": {
+        "midpoint": [
+            15,
+            155
+        ],
+        "rarity": 4,
+        "name": "[Messenger of the Dark] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6000714": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Undead Prince] Kirito",
+        "weapon_type": "1H Sword"
     }
 }

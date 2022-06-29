@@ -8431,5 +8431,104 @@
         "rarity": 4,
         "name": "[Undead Prince] Kirito",
         "weapon_type": "1H Sword"
+    },
+    "6000891": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Leaping All About] Yuuki",
+        "weapon_type": "Passive"
+    },
+    "6000892": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Inspector of the Board] Leafa",
+        "weapon_type": "2H Spear"
+    },
+    "6000893": {
+        "midpoint": [
+            15,
+            125
+        ],
+        "rarity": 4,
+        "name": "[Tight Line of Defense] Agil",
+        "weapon_type": "2H Axe"
+    },
+    "6000894": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Road to Promotion] Yui",
+        "weapon_type": "Dagger"
+    },
+    "6001096": {
+        "midpoint": [
+            15,
+            139
+        ],
+        "rarity": 4,
+        "name": "[Eloquent Storyteller] Lueur",
+        "weapon_type": "1H Club"
+    },
+    "6001103": {
+        "midpoint": [
+            15,
+            137
+        ],
+        "rarity": 4,
+        "name": "[Scarlet Light Sword] Rain",
+        "weapon_type": "1H Sword"
+    },
+    "6001104": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Seasoned With Magic] Rain",
+        "weapon_type": "1H Rapier"
+    },
+    "6001113": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[Sunshine by the Beach] Leafa",
+        "weapon_type": "2H Axe"
+    },
+    "6001114": {
+        "midpoint": [
+            15,
+            129
+        ],
+        "rarity": 4,
+        "name": "[Summer Shot by the Shore] Koharu",
+        "weapon_type": "1H Club"
+    },
+    "6001115": {
+        "midpoint": [
+            15,
+            145
+        ],
+        "rarity": 4,
+        "name": "[Sunlight on the Beach] Yuuki",
+        "weapon_type": "1H Sword"
+    },
+    "6001116": {
+        "midpoint": [
+            15,
+            131
+        ],
+        "rarity": 4,
+        "name": "[Summer Traveler] Sachi",
+        "weapon_type": "Passive"
     }
 }

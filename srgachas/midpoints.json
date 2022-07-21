@@ -8530,5 +8530,77 @@
         "rarity": 4,
         "name": "[Summer Traveler] Sachi",
         "weapon_type": "Passive"
+    },
+    "6000910": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Princess of Sea Storms] Leafa",
+        "weapon_type": "Passive"
+    },
+    "6000911": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Ocean Princess] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6000912": {
+        "midpoint": [
+            15,
+            143
+        ],
+        "rarity": 4,
+        "name": "[All-Consuming Whirlpool] Argo",
+        "weapon_type": "Dagger"
+    },
+    "6000913": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Ruler of the Great Deep] Kirito",
+        "weapon_type": "Bow"
+    },
+    "6001105": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Fishing Girl] Yuuki",
+        "weapon_type": "1H Sword"
+    },
+    "6001106": {
+        "midpoint": [
+            15,
+            130
+        ],
+        "rarity": 4,
+        "name": "[Unexpectedly Big Catch] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001107": {
+        "midpoint": [
+            15,
+            131
+        ],
+        "rarity": 4,
+        "name": "[Youngest Angler] Yui",
+        "weapon_type": "Passive"
+    },
+    "6001108": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[A Modest Accomplishment] Sachi",
+        "weapon_type": "2H Spear"
     }
 }

@@ -8602,5 +8602,365 @@
         "rarity": 4,
         "name": "[A Modest Accomplishment] Sachi",
         "weapon_type": "2H Spear"
+    },
+    "6000965": {
+        "midpoint": [
+            15,
+            124
+        ],
+        "rarity": 4,
+        "name": "[Wandering the Cardinal] Yui",
+        "weapon_type": "1H Sword"
+    },
+    "6000966": {
+        "midpoint": [
+            15,
+            124
+        ],
+        "rarity": 4,
+        "name": "[Little Monster] Yui",
+        "weapon_type": "1H Rapier"
+    },
+    "6001071": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Green Puppeteer] Sinon",
+        "weapon_type": "Passive"
+    },
+    "6001072": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Lively Jester] Yuuki",
+        "weapon_type": "1H Rapier"
+    },
+    "6001073": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[The Joy of Pulling Strings] Sachi",
+        "weapon_type": "2H Spear"
+    },
+    "6001074": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Powerful Puppet Master] Klein",
+        "weapon_type": "2H Axe"
+    },
+    "6001117": {
+        "midpoint": [
+            15,
+            131
+        ],
+        "rarity": 4,
+        "name": "[Rising Highest Tide] Yuna",
+        "weapon_type": "1H Club"
+    },
+    "6001118": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Singer Under the Trees] Yuna",
+        "weapon_type": "Passive"
+    },
+    "6001127": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Awake in the Night] Koharu",
+        "weapon_type": "2H Axe"
+    },
+    "6001128": {
+        "midpoint": [
+            15,
+            133
+        ],
+        "rarity": 4,
+        "name": "[Night Routine] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001129": {
+        "midpoint": [
+            15,
+            134
+        ],
+        "rarity": 4,
+        "name": "[Time to Relax] Alice",
+        "weapon_type": "Passive"
+    },
+    "6001130": {
+        "midpoint": [
+            15,
+            133
+        ],
+        "rarity": 4,
+        "name": "[Peak Sleepiness] Silica",
+        "weapon_type": "Dagger"
+    },
+    "6001131": {
+        "midpoint": [
+            15,
+            156
+        ],
+        "rarity": 4,
+        "name": "[Lively Pace] Eydis",
+        "weapon_type": "1H Sword"
+    },
+    "6001132": {
+        "midpoint": [
+            15,
+            164
+        ],
+        "rarity": 4,
+        "name": "[Sword Flash in the Moonlight] Eydis",
+        "weapon_type": "Passive"
+    },
+    "6001133": {
+        "midpoint": [
+            15,
+            129
+        ],
+        "rarity": 4,
+        "name": "[Raging Silver Wolf] Kirito",
+        "weapon_type": "Passive"
+    },
+    "6001134": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Intense Dual Blades] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001135": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Master of the Four] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001136": {
+        "midpoint": [
+            15,
+            128
+        ],
+        "rarity": 4,
+        "name": "[Attuned Mage] Koharu",
+        "weapon_type": "1H Club"
+    },
+    "6001137": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Blade of Faith] Eugeo",
+        "weapon_type": "Passive"
+    },
+    "6001138": {
+        "midpoint": [
+            15,
+            128
+        ],
+        "rarity": 4,
+        "name": "[Peace-Seeking Knight] Alice",
+        "weapon_type": "2H Spear"
+    },
+    "6001139": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Passionate Avenger] Sinon",
+        "weapon_type": "1H Sword"
+    },
+    "6001140": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Seventh Fonic Hymn] Leafa",
+        "weapon_type": "Passive"
+    },
+    "6001141": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Tempestuous Umbrella Wielder] Yuuki",
+        "weapon_type": "1H Rapier"
+    },
+    "6001142": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Blazing Sword] Alphen",
+        "weapon_type": "Passive"
+    },
+    "6001144": {
+        "midpoint": [
+            15,
+            129
+        ],
+        "rarity": 4,
+        "name": "[Wavering Water & Sky Tones] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001145": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Flower of the Shrine] Alice",
+        "weapon_type": "Passive"
+    },
+    "6001146": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Shrine Carrier Supporter] Yui",
+        "weapon_type": "2H Spear"
+    },
+    "6001147": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Ironclad Business Spirit] Agil",
+        "weapon_type": "2H Axe"
+    },
+    "6001148": {
+        "midpoint": [
+            15,
+            134
+        ],
+        "rarity": 4,
+        "name": "[Two Precise Arrows] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001149": {
+        "midpoint": [
+            15,
+            133
+        ],
+        "rarity": 4,
+        "name": "[Relaxing at the Campsite] Sinon",
+        "weapon_type": "Passive"
+    },
+    "6001150": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Signpost for Wandering] Typhon",
+        "weapon_type": "2H Spear"
+    },
+    "6001151": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[Hard Hitting Punishment] Mater",
+        "weapon_type": "1H Club"
+    },
+    "6001156": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[The Taste of an Autumn Night] Koharu",
+        "weapon_type": "1H Club"
+    },
+    "6001157": {
+        "midpoint": [
+            15,
+            136
+        ],
+        "rarity": 4,
+        "name": "[A Harvest Moon Invitation] Asuna",
+        "weapon_type": "Passive"
+    },
+    "6001158": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Visitor from the Moon] Yuuki",
+        "weapon_type": "2H Spear"
+    },
+    "6001159": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Rabbit Chase Under the Moon] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001164": {
+        "midpoint": [
+            15,
+            131
+        ],
+        "rarity": 4,
+        "name": "[Harvest of Nature's Mountain] Silica",
+        "weapon_type": "Dagger"
+    },
+    "6001165": {
+        "midpoint": [
+            15,
+            153
+        ],
+        "rarity": 4,
+        "name": "[Fresh Fruit] Leafa",
+        "weapon_type": "2H Axe"
+    },
+    "6001166": {
+        "midpoint": [
+            16,
+            154
+        ],
+        "rarity": 4,
+        "name": "[Beware of Spikes] Argo",
+        "weapon_type": "1H Club"
+    },
+    "6001167": {
+        "midpoint": [
+            15,
+            160
+        ],
+        "rarity": 4,
+        "name": "[The Richness of Autumn] Yuuki",
+        "weapon_type": "Passive"
     }
 }

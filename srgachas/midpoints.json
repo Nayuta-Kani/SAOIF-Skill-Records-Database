@@ -8962,5 +8962,59 @@
         "rarity": 4,
         "name": "[The Richness of Autumn] Yuuki",
         "weapon_type": "Passive"
+    },
+    "6001168": {
+        "midpoint": [
+            15,
+            103
+        ],
+        "rarity": 4,
+        "name": "[Dazzling Morning] Asuna",
+        "weapon_type": "Passive"
+    },
+    "6001169": {
+        "midpoint": [
+            15,
+            143
+        ],
+        "rarity": 4,
+        "name": "[Quick as a Flicker] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001172": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Happy Days] Silica",
+        "weapon_type": "Passive"
+    },
+    "6001173": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[Breathe Together] Silica",
+        "weapon_type": "Dagger"
+    },
+    "6001176": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Night Party Celebration] Kirito",
+        "weapon_type": "Passive"
+    },
+    "6001177": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Swirling Clouds in the Night] Kirito",
+        "weapon_type": "1H Sword"
     }
 }

@@ -9016,5 +9016,104 @@
         "rarity": 4,
         "name": "[Swirling Clouds in the Night] Kirito",
         "weapon_type": "1H Sword"
+    },
+    "6001170": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[Carrying the Future] Kirito",
+        "weapon_type": "Passive"
+    },
+    "6001171": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[Growing Happiness] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001178": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Dark Underlings Wanted] Eugeo",
+        "weapon_type": "Passive"
+    },
+    "6001179": {
+        "midpoint": [
+            15,
+            146
+        ],
+        "rarity": 4,
+        "name": "[Mischievous Smile] Asuna",
+        "weapon_type": "1H Club"
+    },
+    "6001180": {
+        "midpoint": [
+            15,
+            160
+        ],
+        "rarity": 4,
+        "name": "[Sweets in Danger] Yuuki",
+        "weapon_type": "Bow"
+    },
+    "6001181": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Devil Charm] Leafa",
+        "weapon_type": "2H Spear"
+    },
+    "6001186": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Black Hope] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001188": {
+        "midpoint": [
+            15,
+            132
+        ],
+        "rarity": 4,
+        "name": "[Master Key of Strategy] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001189": {
+        "midpoint": [
+            34,
+            138
+        ],
+        "rarity": 4,
+        "name": "[Sharp Aiming] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001190": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Sharp Shredding Claws] Argo",
+        "weapon_type": "Passive"
+    },
+    "6001191": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Rebel Scythe User] Mito",
+        "weapon_type": "Passive"
     }
 }

@@ -9115,5 +9115,140 @@
         "rarity": 4,
         "name": "[Rebel Scythe User] Mito",
         "weapon_type": "Passive"
+    },
+    "6000774": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Unsinkable Barrier] Heathcliff",
+        "weapon_type": "Passive"
+    },
+    "6001119": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[High Tech Nurse] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001120": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Medical Supporter] Leafa",
+        "weapon_type": "2H Spear"
+    },
+    "6001121": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Healing Nutrionist] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001122": {
+        "midpoint": [
+            15,
+            137
+        ],
+        "rarity": 4,
+        "name": "[The Call of Blood] Sanya",
+        "weapon_type": "Passive"
+    },
+    "6001174": {
+        "midpoint": [
+            15,
+            143
+        ],
+        "rarity": 4,
+        "name": "[Mountain of Presents] Sanya",
+        "weapon_type": "Passive"
+    },
+    "6001175": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Devil Mood] Sanya",
+        "weapon_type": "1H Sword"
+    },
+    "6001187": {
+        "midpoint": [
+            15,
+            143
+        ],
+        "rarity": 4,
+        "name": "[White Future] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001193": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[School Madonna] Asuna",
+        "weapon_type": "Passive"
+    },
+    "6001194": {
+        "midpoint": [
+            15,
+            131
+        ],
+        "rarity": 4,
+        "name": "[School Ghost] Alice",
+        "weapon_type": "Dagger"
+    },
+    "6001195": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Gunner's Song] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001196": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Missing Stock] Leafa",
+        "weapon_type": "2H Axe"
+    },
+    "6001205": {
+        "midpoint": [
+            15,
+            143
+        ],
+        "rarity": 4,
+        "name": "[Happy Wink] Strea",
+        "weapon_type": "Passive"
+    },
+    "6001206": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[The Will to Step Forward] Strea",
+        "weapon_type": "1H Sword"
+    },
+    "6001211": {
+        "midpoint": [
+            15,
+            140
+        ],
+        "rarity": 4,
+        "name": "[Two Swings of a Sharp Sword] Kirito",
+        "weapon_type": "1H Sword"
     }
 }

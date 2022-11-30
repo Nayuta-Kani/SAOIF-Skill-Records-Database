@@ -9250,5 +9250,131 @@
         "rarity": 4,
         "name": "[Two Swings of a Sharp Sword] Kirito",
         "weapon_type": "1H Sword"
+    },
+    "6000694": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Solid Growth] Silica",
+        "weapon_type": "Passive"
+    },
+    "6001192": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Flashing Sword at Twilight] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001207": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[In Food Heaven] Klein",
+        "weapon_type": "Passive"
+    },
+    "6001208": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Cutting Breakthrough] Klein",
+        "weapon_type": "2H Spear"
+    },
+    "6001209": {
+        "midpoint": [
+            15,
+            133
+        ],
+        "rarity": 4,
+        "name": "[Dark Elf Leader] Kizmel",
+        "weapon_type": "Shield"
+    },
+    "6001212": {
+        "midpoint": [
+            15,
+            133
+        ],
+        "rarity": 4,
+        "name": "[Agile Informant] Argo",
+        "weapon_type": "Dagger"
+    },
+    "6001213": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Superior Battle Skills] Mito",
+        "weapon_type": "Passive"
+    },
+    "6001226": {
+        "midpoint": [
+            15,
+            133
+        ],
+        "rarity": 4,
+        "name": "[Confronting the Subspace] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001227": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Light that Purifies Chaos] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001228": {
+        "midpoint": [
+            15,
+            134
+        ],
+        "rarity": 4,
+        "name": "[Into a World of Chaos] Koharu",
+        "weapon_type": "Dagger"
+    },
+    "6001229": {
+        "midpoint": [
+            15,
+            124
+        ],
+        "rarity": 4,
+        "name": "[Archer Who Pierces Chaos] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001230": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Conqueror's Awareness] Sachi",
+        "weapon_type": "2H Spear"
+    },
+    "6001231": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Battle-Worn Hero] Agil",
+        "weapon_type": "2H Axe"
+    },
+    "6001232": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[The Spirit to Destroy] Lisbeth",
+        "weapon_type": "1H Club"
     }
 }

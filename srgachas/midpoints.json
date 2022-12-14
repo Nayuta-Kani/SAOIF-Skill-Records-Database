@@ -9376,5 +9376,86 @@
         "rarity": 4,
         "name": "[The Spirit to Destroy] Lisbeth",
         "weapon_type": "1H Club"
+    },
+    "6000715": {
+        "midpoint": [
+            15,
+            169
+        ],
+        "rarity": 4,
+        "name": "[Leader of Warriors] Leafa",
+        "weapon_type": "2H Axe"
+    },
+    "6000716": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Messenger of Valhalla] Sachi",
+        "weapon_type": "2H Spear"
+    },
+    "6000717": {
+        "midpoint": [
+            15,
+            174
+        ],
+        "rarity": 4,
+        "name": "[Screening Eyes] Alice",
+        "weapon_type": "Passive"
+    },
+    "6000718": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[On Track to the End] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001210": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 3,
+        "name": "[Bold Stance] Klein",
+        "weapon_type": "Passive"
+    },
+    "6001214": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Dashing Over Town] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001215": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Under the Winter Sky] Yuuki",
+        "weapon_type": "Passive"
+    },
+    "6001216": {
+        "midpoint": [
+            15,
+            137
+        ],
+        "rarity": 4,
+        "name": "[Secret Present] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001217": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[Carefully Down the Chimney] Koharu",
+        "weapon_type": "Dagger"
     }
 }

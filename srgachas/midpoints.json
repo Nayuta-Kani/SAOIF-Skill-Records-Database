@@ -9475,5 +9475,77 @@
         "rarity": 4,
         "name": "[Night of Conquest] Asuna",
         "weapon_type": "1H Rapier"
+    },
+    "6000728": {
+        "midpoint": [
+            15,
+            124
+        ],
+        "rarity": 4,
+        "name": "[Purifying Katashiro] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6000729": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Banishment of Evil Spirits] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6000730": {
+        "midpoint": [
+            15,
+            130
+        ],
+        "rarity": 4,
+        "name": "[Charms for Safety] Kirito",
+        "weapon_type": "Passive"
+    },
+    "6001235": {
+        "midpoint": [
+            15,
+            129
+        ],
+        "rarity": 4,
+        "name": "[A Plan for the New Year] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001236": {
+        "midpoint": [
+            15,
+            133
+        ],
+        "rarity": 4,
+        "name": "[Warming Sweetness] Eugeo",
+        "weapon_type": "2H Spear"
+    },
+    "6001237": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[A Prayer for Luck] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001238": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[New Year Games] Silica",
+        "weapon_type": "Passive"
+    },
+    "6001252": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Happy New Year with a Smile] Sinon",
+        "weapon_type": "Passive"
     }
 }

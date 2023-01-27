@@ -9547,5 +9547,95 @@
         "rarity": 4,
         "name": "[Happy New Year with a Smile] Sinon",
         "weapon_type": "Passive"
+    },
+    "6000727": {
+        "midpoint": [
+            15,
+            150
+        ],
+        "rarity": 4,
+        "name": "[Charms of Cutting Wind] Leafa",
+        "weapon_type": "Passive"
+    },
+    "6001239": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Higher Than All the Rest] Kirito",
+        "weapon_type": "Passive"
+    },
+    "6001240": {
+        "midpoint": [
+            15,
+            133
+        ],
+        "rarity": 4,
+        "name": "[Flying Over Obstacles] Koharu",
+        "weapon_type": "1H Club"
+    },
+    "6001241": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Trick Jump] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001242": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[High-Speed Floater] Argo",
+        "weapon_type": "2H Axe"
+    },
+    "6001243": {
+        "midpoint": [
+            15,
+            128
+        ],
+        "rarity": 4,
+        "name": "[Big Golden Catch] Agil",
+        "weapon_type": "2H Axe"
+    },
+    "6001244": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[New Year's Fortune] Yuuki",
+        "weapon_type": "2H Spear"
+    },
+    "6001245": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Lucky Cat Girl] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001246": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Lucky Talisman Scroll] Leafa",
+        "weapon_type": "Passive"
+    },
+    "6001251": {
+        "midpoint": [
+            15,
+            134
+        ],
+        "rarity": 4,
+        "name": "[Sending Wishes] Sachi",
+        "weapon_type": "2H Spear"
     }
 }

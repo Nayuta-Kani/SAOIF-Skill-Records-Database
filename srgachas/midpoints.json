@@ -9637,5 +9637,158 @@
         "rarity": 4,
         "name": "[Sending Wishes] Sachi",
         "weapon_type": "2H Spear"
+    },
+    "6001075": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Everyone's Mediator] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001076": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Carefully Acquired Knowledge] Koharu",
+        "weapon_type": "2H Axe"
+    },
+    "6001077": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[No Fear of Failure] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001078": {
+        "midpoint": [
+            15,
+            157
+        ],
+        "rarity": 4,
+        "name": "[A Little Trial and Error] Yuuki",
+        "weapon_type": "Passive"
+    },
+    "6001218": {
+        "midpoint": [
+            15,
+            135
+        ],
+        "rarity": 4,
+        "name": "[Spirited Roar] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001219": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[Sharp Gaze] Sanya",
+        "weapon_type": "Passive"
+    },
+    "6001220": {
+        "midpoint": [
+            15,
+            136
+        ],
+        "rarity": 4,
+        "name": "[Brave Figure in Black] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001221": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Just As Planned] Argo",
+        "weapon_type": "Dagger"
+    },
+    "6001253": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Shining Heart] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001254": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Sweet Present] Alice",
+        "weapon_type": "1H Sword"
+    },
+    "6001255": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Made to Perfection] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001256": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[My Feelings] Silica",
+        "weapon_type": "Passive"
+    },
+    "6001257": {
+        "midpoint": [
+            15,
+            132
+        ],
+        "rarity": 4,
+        "name": "[Natural Look] Sachi",
+        "weapon_type": "Passive"
+    },
+    "6001258": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Figure of the Forest] Sachi",
+        "weapon_type": "2H Spear"
+    },
+    "6001259": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Gazing Into the Future] Koharu",
+        "weapon_type": "Passive"
+    },
+    "6001260": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Next Move] Koharu",
+        "weapon_type": "Dagger"
+    },
+    "6001269": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Long Spurt] Klein",
+        "weapon_type": "2H Axe"
     }
 }

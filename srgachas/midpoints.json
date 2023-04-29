@@ -9790,5 +9790,338 @@
         "rarity": 4,
         "name": "[Long Spurt] Klein",
         "weapon_type": "2H Axe"
+    },
+    "6000731": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Occasional Breaks] Asuna",
+        "weapon_type": "Passive"
+    },
+    "6001247": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Mop Race] Sachi",
+        "weapon_type": "2H Spear"
+    },
+    "6001248": {
+        "midpoint": [
+            15,
+            140
+        ],
+        "rarity": 4,
+        "name": "[Artistic Cooking Challenge] Silica",
+        "weapon_type": "Dagger"
+    },
+    "6001249": {
+        "midpoint": [
+            15,
+            137
+        ],
+        "rarity": 4,
+        "name": "[Spick and Span] Alice",
+        "weapon_type": "Passive"
+    },
+    "6001250": {
+        "midpoint": [
+            15,
+            140
+        ],
+        "rarity": 4,
+        "name": "[Time to Show My Skills] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001261": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Pioneering an Era] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001262": {
+        "midpoint": [
+            15,
+            143
+        ],
+        "rarity": 4,
+        "name": "[Gear Soldier] Agil",
+        "weapon_type": "2H Axe"
+    },
+    "6001263": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[The Trial That Awaits] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001264": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Sky Cruising] Yuuki",
+        "weapon_type": "Passive"
+    },
+    "6001265": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Classical Coordinate] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001266": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Cheerful Rockabilly] Argo",
+        "weapon_type": "1H Club"
+    },
+    "6001267": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Pop Rocker] Klein",
+        "weapon_type": "2H Spear"
+    },
+    "6001268": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Refreshing Grape Soda] Koharu",
+        "weapon_type": "Passive"
+    },
+    "6001270": {
+        "midpoint": [
+            15,
+            140
+        ],
+        "rarity": 4,
+        "name": "[Humorous Principal] Kibaou",
+        "weapon_type": "Passive"
+    },
+    "6001271": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[It Feels a Bit Heavy...] Yuuki",
+        "weapon_type": "1H Rapier"
+    },
+    "6001272": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Court Officer Girl] Alice",
+        "weapon_type": "1H Sword"
+    },
+    "6001273": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Happy Beat] Leafa",
+        "weapon_type": "Passive"
+    },
+    "6001274": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Mesmerizing Archery] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001275": {
+        "midpoint": [
+            15,
+            133
+        ],
+        "rarity": 4,
+        "name": "[Yell of Encouragement] Agil",
+        "weapon_type": "2H Axe"
+    },
+    "6001276": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Just the Right Temperature] Agil",
+        "weapon_type": "Passive"
+    },
+    "6001277": {
+        "midpoint": [
+            15,
+            133
+        ],
+        "rarity": 4,
+        "name": "[Sweeping Blade] Philia",
+        "weapon_type": "Dagger"
+    },
+    "6001278": {
+        "midpoint": [
+            15,
+            122
+        ],
+        "rarity": 4,
+        "name": "[Celebratory Treasure Chest] Philia",
+        "weapon_type": "Passive"
+    },
+    "6001287": {
+        "midpoint": [
+            15,
+            132
+        ],
+        "rarity": 4,
+        "name": "[This Is for You] Sinon",
+        "weapon_type": "Passive"
+    },
+    "6001288": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[I'll Protect You!] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001289": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Off on an Adventure!] Yuuki",
+        "weapon_type": "Dagger"
+    },
+    "6001290": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Free Drawing] Leafa",
+        "weapon_type": "Passive"
+    },
+    "6001291": {
+        "midpoint": [
+            15,
+            128
+        ],
+        "rarity": 4,
+        "name": "[Hiking on a Sunny Day] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001292": {
+        "midpoint": [
+            15,
+            132
+        ],
+        "rarity": 4,
+        "name": "[With the Moon at Her Back] Alice",
+        "weapon_type": "1H Sword"
+    },
+    "6001293": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Starry Eyes] Alice",
+        "weapon_type": "Passive"
+    },
+    "6001294": {
+        "midpoint": [
+            15,
+            139
+        ],
+        "rarity": 4,
+        "name": "[Freezing Knight] Eugeo",
+        "weapon_type": "1H Sword"
+    },
+    "6001295": {
+        "midpoint": [
+            15,
+            133
+        ],
+        "rarity": 4,
+        "name": "[Fragrant Rose] Eugeo",
+        "weapon_type": "Passive"
+    },
+    "6001296": {
+        "midpoint": [
+            15,
+            140
+        ],
+        "rarity": 4,
+        "name": "[Aggressive Dropkick] Leafa",
+        "weapon_type": "2H Axe"
+    },
+    "6001297": {
+        "midpoint": [
+            15,
+            125
+        ],
+        "rarity": 4,
+        "name": "[Sweet Castle] Leafa",
+        "weapon_type": "1H Sword"
+    },
+    "6001314": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Perfect Day for a Nap] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001315": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Midday Fruit Parfait] Alice",
+        "weapon_type": "1H Sword"
+    },
+    "6001316": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Stray Cat Playtime] Leafa",
+        "weapon_type": "2H Axe"
+    },
+    "6001317": {
+        "midpoint": [
+            15,
+            125
+        ],
+        "rarity": 4,
+        "name": "[Holiday Knitting] Sachi",
+        "weapon_type": "Passive"
     }
 }

@@ -10123,5 +10123,320 @@
         "rarity": 4,
         "name": "[Holiday Knitting] Sachi",
         "weapon_type": "Passive"
+    },
+    "6000816": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Black Hero King] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6000819": {
+        "midpoint": [
+            15,
+            139
+        ],
+        "rarity": 4,
+        "name": "[Stern Determination] Sachi",
+        "weapon_type": "2H Spear"
+    },
+    "6001028": {
+        "midpoint": [
+            15,
+            137
+        ],
+        "rarity": 4,
+        "name": "[Start Maintenance] Lisbeth",
+        "weapon_type": "Passive"
+    },
+    "6001029": {
+        "midpoint": [
+            15,
+            132
+        ],
+        "rarity": 4,
+        "name": "[Maintenance Completed] Koharu",
+        "weapon_type": "1H Club"
+    },
+    "6001030": {
+        "midpoint": [
+            15,
+            129
+        ],
+        "rarity": 4,
+        "name": "[Take Aim] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001031": {
+        "midpoint": [
+            15,
+            125
+        ],
+        "rarity": 4,
+        "name": "[Safety First] Agil",
+        "weapon_type": "2H Axe"
+    },
+    "6001160": {
+        "midpoint": [
+            15,
+            129
+        ],
+        "rarity": 4,
+        "name": "[Supporter from the Shadows] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001161": {
+        "midpoint": [
+            15,
+            124
+        ],
+        "rarity": 4,
+        "name": "[Noiseless Intruder] Sachi",
+        "weapon_type": "2H Spear"
+    },
+    "6001162": {
+        "midpoint": [
+            15,
+            148
+        ],
+        "rarity": 4,
+        "name": "[Code Breaker] Argo",
+        "weapon_type": "Dagger"
+    },
+    "6001163": {
+        "midpoint": [
+            15,
+            137
+        ],
+        "rarity": 4,
+        "name": "[Shots Will Be Fired] Kirito",
+        "weapon_type": "Passive"
+    },
+    "6001222": {
+        "midpoint": [
+            15,
+            140
+        ],
+        "rarity": 4,
+        "name": "[Rising Young Power] Leafa",
+        "weapon_type": "2H Axe"
+    },
+    "6001223": {
+        "midpoint": [
+            15,
+            136
+        ],
+        "rarity": 4,
+        "name": "[Oncoming Challenger] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001224": {
+        "midpoint": [
+            15,
+            134
+        ],
+        "rarity": 4,
+        "name": "[Lightning in the Ring] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001225": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Champion's Road] Klein",
+        "weapon_type": "Passive"
+    },
+    "6001310": {
+        "midpoint": [
+            15,
+            132
+        ],
+        "rarity": 4,
+        "name": "[Catching My Breath] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001311": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[Revealed Feelings] Lisbeth",
+        "weapon_type": "Passive"
+    },
+    "6001312": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Starting With a Warm-Up] Yuuki",
+        "weapon_type": "1H Sword"
+    },
+    "6001313": {
+        "midpoint": [
+            15,
+            115
+        ],
+        "rarity": 4,
+        "name": "[Putting Off the Hard Part] Yuuki",
+        "weapon_type": "Passive"
+    },
+    "6001326": {
+        "midpoint": [
+            15,
+            135
+        ],
+        "rarity": 4,
+        "name": "[Feeling of Gunpowder] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001327": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Seven Colors After the Rain] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001328": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Rainbow After The Rain] Leafa",
+        "weapon_type": "1H Sword"
+    },
+    "6001329": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Rainbows, Droplets, and...] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001330": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Walking After The Rain] Silica",
+        "weapon_type": "Passive"
+    },
+    "6001331": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Poolside at the Resort] Argo",
+        "weapon_type": "Passive"
+    },
+    "6001332": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Cheers to Victory] Argo",
+        "weapon_type": "Dagger"
+    },
+    "6001334": {
+        "midpoint": [
+            15,
+            135
+        ],
+        "rarity": 4,
+        "name": "[Flowers Color the Rain] Rain",
+        "weapon_type": "1H Sword"
+    },
+    "6001335": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Dragon Style] Yuuki",
+        "weapon_type": "2H Spear"
+    },
+    "6001336": {
+        "midpoint": [
+            15,
+            143
+        ],
+        "rarity": 4,
+        "name": "[Dragon-Like Knowledge] Alice",
+        "weapon_type": "Passive"
+    },
+    "6001337": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Descending Deity] Koharu",
+        "weapon_type": "1H Club"
+    },
+    "6001338": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Wings That Soar the Sky] Eugeo",
+        "weapon_type": "2H Axe"
+    },
+    "6001343": {
+        "midpoint": [
+            15,
+            147
+        ],
+        "rarity": 4,
+        "name": "[Solemn & Sturdy] Typhon",
+        "weapon_type": "1H Sword"
+    },
+    "6001344": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Journey of the Ocean Deep] Leafa",
+        "weapon_type": "Passive"
+    },
+    "6001345": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Calculating Smile] Alice",
+        "weapon_type": "1H Sword"
+    },
+    "6001346": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Envoy of the Dragon Palace] Koharu",
+        "weapon_type": "1H Club"
+    },
+    "6001347": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[To the Dragon Palace!] Agil",
+        "weapon_type": "2H Axe"
     }
 }

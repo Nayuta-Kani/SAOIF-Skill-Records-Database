@@ -10438,5 +10438,41 @@
         "rarity": 4,
         "name": "[To the Dragon Palace!] Agil",
         "weapon_type": "2H Axe"
+    },
+    "6001354": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Beach Battle Gear] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001355": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Midsummer Battle Gear] Argo",
+        "weapon_type": "2H Axe"
+    },
+    "6001356": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Roaring Wave Battle Gear] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001357": {
+        "midpoint": [
+            15,
+            134
+        ],
+        "rarity": 4,
+        "name": "[Captivating Battle Gear] Silica",
+        "weapon_type": "Passive"
     }
 }

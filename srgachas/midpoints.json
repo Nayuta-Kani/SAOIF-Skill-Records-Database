@@ -10474,5 +10474,41 @@
         "rarity": 4,
         "name": "[Captivating Battle Gear] Silica",
         "weapon_type": "Passive"
+    },
+    "6001363": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Aiming for the Top] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001364": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Shining Smile] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001365": {
+        "midpoint": [
+            15,
+            135
+        ],
+        "rarity": 4,
+        "name": "[Crimson Double-Edged Blade] Layla",
+        "weapon_type": "Passive"
+    },
+    "6001366": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Reviving Ambition] Medina",
+        "weapon_type": "Passive"
     }
 }

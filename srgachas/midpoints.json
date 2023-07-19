@@ -10510,5 +10510,41 @@
         "rarity": 4,
         "name": "[Reviving Ambition] Medina",
         "weapon_type": "Passive"
+    },
+    "6001091": {
+        "midpoint": [
+            15,
+            130
+        ],
+        "rarity": 4,
+        "name": "[Cute Walker] Koharu",
+        "weapon_type": "Passive"
+    },
+    "6001092": {
+        "midpoint": [
+            15,
+            131
+        ],
+        "rarity": 4,
+        "name": "[Idol Mode] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001093": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Off-shot] Sanya",
+        "weapon_type": "1H Sword"
+    },
+    "6001094": {
+        "midpoint": [
+            15,
+            132
+        ],
+        "rarity": 4,
+        "name": "[Cool Beat] Sinon",
+        "weapon_type": "Bow"
     }
 }

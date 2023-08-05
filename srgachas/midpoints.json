@@ -10546,5 +10546,86 @@
         "rarity": 4,
         "name": "[Cool Beat] Sinon",
         "weapon_type": "Bow"
+    },
+    "6001348": {
+        "midpoint": [
+            15,
+            156
+        ],
+        "rarity": 4,
+        "name": "[Adult Dress Up] Yuna",
+        "weapon_type": "2H Spear"
+    },
+    "6001349": {
+        "midpoint": [
+            15,
+            133
+        ],
+        "rarity": 4,
+        "name": "[Listen Quietly] Yuna",
+        "weapon_type": "Passive"
+    },
+    "6001362": {
+        "midpoint": [
+            15,
+            123
+        ],
+        "rarity": 4,
+        "name": "[Something Good May Come] Yui",
+        "weapon_type": "Passive"
+    },
+    "6001367": {
+        "midpoint": [
+            15,
+            135
+        ],
+        "rarity": 4,
+        "name": "[Ocean Runner] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001368": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Breeze Across the Sea] Sinon",
+        "weapon_type": "Passive"
+    },
+    "6001369": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Shining Beach Goddess] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001370": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Splash Dive] Lisbeth",
+        "weapon_type": "Dagger"
+    },
+    "6001371": {
+        "midpoint": [
+            15,
+            122
+        ],
+        "rarity": 4,
+        "name": "[Impenetrable Fortress] Yui",
+        "weapon_type": "1H Sword"
+    },
+    "6001372": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Together From Here On] Yui",
+        "weapon_type": "Passive"
     }
 }

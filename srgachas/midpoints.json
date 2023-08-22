@@ -10627,5 +10627,41 @@
         "rarity": 4,
         "name": "[Together From Here On] Yui",
         "weapon_type": "Passive"
+    },
+    "6000734": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Moment of Victory] Yuuki",
+        "weapon_type": "Passive"
+    },
+    "6000817": {
+        "midpoint": [
+            15,
+            139
+        ],
+        "rarity": 4,
+        "name": "[Beautiful White Queen] Asuna",
+        "weapon_type": "Passive"
+    },
+    "6000818": {
+        "midpoint": [
+            15,
+            140
+        ],
+        "rarity": 4,
+        "name": "[Naughty Prince's Speech] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001374": {
+        "midpoint": [
+            15,
+            130
+        ],
+        "rarity": 4,
+        "name": "[Dignified Hunter] Sinon",
+        "weapon_type": "Bow"
     }
 }

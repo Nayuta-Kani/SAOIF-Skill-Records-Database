@@ -10663,5 +10663,77 @@
         "rarity": 4,
         "name": "[Dignified Hunter] Sinon",
         "weapon_type": "Bow"
+    },
+    "6001383": {
+        "midpoint": [
+            15,
+            133
+        ],
+        "rarity": 4,
+        "name": "[Scary Things Are Scary...] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001388": {
+        "midpoint": [
+            15,
+            131
+        ],
+        "rarity": 4,
+        "name": "[The Road We Walk Together] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001389": {
+        "midpoint": [
+            15,
+            123
+        ],
+        "rarity": 4,
+        "name": "[Color Scheme Heroine] Koharu",
+        "weapon_type": "1H Club"
+    },
+    "6001390": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Obey Me!] Layla",
+        "weapon_type": "Dagger"
+    },
+    "6001391": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Rain & Rainbows] Seven",
+        "weapon_type": "2H Spear"
+    },
+    "6001392": {
+        "midpoint": [
+            15,
+            124
+        ],
+        "rarity": 4,
+        "name": "[Master Gunner] Zeliska",
+        "weapon_type": "Bow"
+    },
+    "6001393": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Towards the Ideal Form] Premiere",
+        "weapon_type": "1H Rapier"
+    },
+    "6001394": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Bearing the Mission] Dorothy",
+        "weapon_type": "2H Axe"
     }
 }

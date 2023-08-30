@@ -10735,5 +10735,59 @@
         "rarity": 4,
         "name": "[Bearing the Mission] Dorothy",
         "weapon_type": "2H Axe"
+    },
+    "6001395": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Darkness Following Sunset] Eydis",
+        "weapon_type": "1H Sword"
+    },
+    "6001396": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Autumn Leaf Hot Spring] Eydis",
+        "weapon_type": "Passive"
+    },
+    "6001397": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Priestess Gazing at the Sky] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001398": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Wishing for A Good Harvest] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001399": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Drawing In Joy] Koharu",
+        "weapon_type": "Passive"
+    },
+    "6001400": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Oracle from the Halo] Alice",
+        "weapon_type": "1H Sword"
     }
 }

@@ -10789,5 +10789,41 @@
         "rarity": 4,
         "name": "[Oracle from the Halo] Alice",
         "weapon_type": "1H Sword"
+    },
+    "6001403": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Sky Splitting Arrow] Sinon",
+        "weapon_type": "Passive"
+    },
+    "6001404": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Light that Illuminates Night] Leafa",
+        "weapon_type": "2H Axe"
+    },
+    "6001405": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Return of the Full Moon] Yuuki",
+        "weapon_type": "Dagger"
+    },
+    "6001406": {
+        "midpoint": [
+            15,
+            136
+        ],
+        "rarity": 4,
+        "name": "[Watchful Eyes] Sachi",
+        "weapon_type": "2H Spear"
     }
 }

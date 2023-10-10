@@ -10825,5 +10825,86 @@
         "rarity": 4,
         "name": "[Watchful Eyes] Sachi",
         "weapon_type": "2H Spear"
+    },
+    "6001401": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Vice-Commander's Break] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001402": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Inherited Technique] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001415": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[Combination Play] Koharu",
+        "weapon_type": "Dagger"
+    },
+    "6001416": {
+        "midpoint": [
+            15,
+            119
+        ],
+        "rarity": 4,
+        "name": "[Putting Feelings to Brush] Koharu",
+        "weapon_type": "Passive"
+    },
+    "6001417": {
+        "midpoint": [
+            15,
+            134
+        ],
+        "rarity": 4,
+        "name": "[Crossing Into Death Together] Koharu",
+        "weapon_type": "Dagger"
+    },
+    "6001418": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Leader of the Human Empire] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001419": {
+        "midpoint": [
+            15,
+            134
+        ],
+        "rarity": 4,
+        "name": "[Goddess of the Human Empire] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001425": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Escape in the Nick of Time] Silica",
+        "weapon_type": "Passive"
+    },
+    "6001426": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Leap Into the Future] Silica",
+        "weapon_type": "Dagger"
     }
 }

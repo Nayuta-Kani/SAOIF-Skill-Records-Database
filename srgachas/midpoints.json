@@ -10906,5 +10906,113 @@
         "rarity": 4,
         "name": "[Leap Into the Future] Silica",
         "weapon_type": "Dagger"
+    },
+    "6001306": {
+        "midpoint": [
+            15,
+            131
+        ],
+        "rarity": 4,
+        "name": "[Please Follow Me!] Koharu",
+        "weapon_type": "Bow"
+    },
+    "6001307": {
+        "midpoint": [
+            15,
+            139
+        ],
+        "rarity": 4,
+        "name": "[Order Up!] Yuuki",
+        "weapon_type": "Passive"
+    },
+    "6001308": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Can I Take Your Order?] Leafa",
+        "weapon_type": "2H Axe"
+    },
+    "6001309": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Scrambling for Orders] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001423": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Sparks in the Neon City] Kirito",
+        "weapon_type": "Passive"
+    },
+    "6001424": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Strike of Victory] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001429": {
+        "midpoint": [
+            15,
+            136
+        ],
+        "rarity": 4,
+        "name": "[Happy Home] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001430": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[A Moment with Family] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001431": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Split-Second Hit] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001432": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[Moment of Determination] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001433": {
+        "midpoint": [
+            15,
+            143
+        ],
+        "rarity": 4,
+        "name": "[Decisive Blow] Argo",
+        "weapon_type": "Dagger"
+    },
+    "6001434": {
+        "midpoint": [
+            15,
+            140
+        ],
+        "rarity": 4,
+        "name": "[Laying It All on This Hit] Mito",
+        "weapon_type": "Passive"
     }
 }

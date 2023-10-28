@@ -11014,5 +11014,32 @@
         "rarity": 4,
         "name": "[Laying It All on This Hit] Mito",
         "weapon_type": "Passive"
+    },
+    "6001427": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Thinking of Home] Sanya",
+        "weapon_type": "Passive"
+    },
+    "6001428": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Sword Roaring in the Dark] Sanya",
+        "weapon_type": "1H Sword"
+    },
+    "6001435": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[The Girl Who Moves On Alone] Sanya",
+        "weapon_type": "Passive"
     }
 }

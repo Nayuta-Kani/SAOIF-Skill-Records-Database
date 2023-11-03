@@ -11041,5 +11041,59 @@
         "rarity": 4,
         "name": "[The Girl Who Moves On Alone] Sanya",
         "weapon_type": "Passive"
+    },
+    "6001442": {
+        "midpoint": [
+            15,
+            128
+        ],
+        "rarity": 4,
+        "name": "[Cyber Scope] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001443": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Lightning Fast] Koharu",
+        "weapon_type": "2H Spear"
+    },
+    "6001444": {
+        "midpoint": [
+            15,
+            131
+        ],
+        "rarity": 4,
+        "name": "[On a Street at Night...] Kirito",
+        "weapon_type": "Passive"
+    },
+    "6001445": {
+        "midpoint": [
+            15,
+            136
+        ],
+        "rarity": 4,
+        "name": "[Melting Into Neon] Leafa",
+        "weapon_type": "1H Sword"
+    },
+    "6001448": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Fun Theme Park] Strea",
+        "weapon_type": "Passive"
+    },
+    "6001449": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Signs of an Unclear Future] Strea",
+        "weapon_type": "1H Sword"
     }
 }

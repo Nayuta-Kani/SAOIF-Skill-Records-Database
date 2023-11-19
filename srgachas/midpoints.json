@@ -11095,5 +11095,77 @@
         "rarity": 4,
         "name": "[Signs of an Unclear Future] Strea",
         "weapon_type": "1H Sword"
+    },
+    "6001152": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Sparkle of Precious Stones] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001153": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Discoverer of Rare Ore] Leafa",
+        "weapon_type": "1H Sword"
+    },
+    "6001154": {
+        "midpoint": [
+            15,
+            136
+        ],
+        "rarity": 4,
+        "name": "[Today's Harvest] Sachi",
+        "weapon_type": "Passive"
+    },
+    "6001155": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[To the Unseen Vein] Argo",
+        "weapon_type": "Dagger"
+    },
+    "6001197": {
+        "midpoint": [
+            15,
+            143
+        ],
+        "rarity": 4,
+        "name": "[Grasping for Gains] Agil",
+        "weapon_type": "2H Axe"
+    },
+    "6001198": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Shouldering Luck] Silica",
+        "weapon_type": "Dagger"
+    },
+    "6001199": {
+        "midpoint": [
+            15,
+            143
+        ],
+        "rarity": 4,
+        "name": "[Greedy for Good Luck] Yuuki",
+        "weapon_type": "Passive"
+    },
+    "6001200": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Delivering Happiness] Lisbeth",
+        "weapon_type": "1H Club"
     }
 }

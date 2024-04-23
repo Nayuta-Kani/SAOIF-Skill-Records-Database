@@ -11167,5 +11167,815 @@
         "rarity": 4,
         "name": "[Delivering Happiness] Lisbeth",
         "weapon_type": "1H Club"
+    },
+    "6000690": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[Swinging Blade] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6000924": {
+        "midpoint": [
+            15,
+            137
+        ],
+        "rarity": 4,
+        "name": "[ASAP Delivery] Yuuki",
+        "weapon_type": "1H Sword"
+    },
+    "6000925": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[To Those Waiting For News] Silica",
+        "weapon_type": "Dagger"
+    },
+    "6000926": {
+        "midpoint": [
+            15,
+            137
+        ],
+        "rarity": 4,
+        "name": "[Messenger of Peace] Yuna",
+        "weapon_type": "Passive"
+    },
+    "6000927": {
+        "midpoint": [
+            15,
+            143
+        ],
+        "rarity": 4,
+        "name": "[Vague Signs] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001087": {
+        "midpoint": [
+            15,
+            130
+        ],
+        "rarity": 4,
+        "name": "[Command of Sorcery] Alice",
+        "weapon_type": "1H Sword"
+    },
+    "6001088": {
+        "midpoint": [
+            15,
+            130
+        ],
+        "rarity": 4,
+        "name": "[Sorcery by Hand] Koharu",
+        "weapon_type": "1H Club"
+    },
+    "6001089": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Enchanted by Sorcery] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001090": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Apprentice Sorceress] Silica",
+        "weapon_type": "Passive"
+    },
+    "6001318": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Black Waves] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001319": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Bewitching Black Sword] Yuuki",
+        "weapon_type": "Passive"
+    },
+    "6001320": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Black Smith's Hammer] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001321": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Girl in Black] Silica",
+        "weapon_type": "Dagger"
+    },
+    "6001322": {
+        "midpoint": [
+            15,
+            133
+        ],
+        "rarity": 4,
+        "name": "[Perfect Heat Protection] Koharu",
+        "weapon_type": "1H Club"
+    },
+    "6001323": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Light As Silk] Argo",
+        "weapon_type": "Passive"
+    },
+    "6001324": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Dangerous Wind] Agil",
+        "weapon_type": "2H Axe"
+    },
+    "6001325": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Cool All Over] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001350": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Hero of the North Sea] Kirito",
+        "weapon_type": "Passive"
+    },
+    "6001351": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Raging North Wind] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001352": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Roaring Man in the Sea] Agil",
+        "weapon_type": "2H Axe"
+    },
+    "6001353": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Between Stormy Skies] Sachi",
+        "weapon_type": "2H Spear"
+    },
+    "6001411": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Eat or Be Eaten] Yuuki",
+        "weapon_type": "Passive"
+    },
+    "6001412": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Innocent Detour] Alice",
+        "weapon_type": "1H Sword"
+    },
+    "6001413": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Keeper of the Silent Forest] Eugeo",
+        "weapon_type": "2H Axe"
+    },
+    "6001414": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Instant Battle] Silica",
+        "weapon_type": "Dagger"
+    },
+    "6001446": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Enchanting Samurai Spirit] Klein",
+        "weapon_type": "Passive"
+    },
+    "6001447": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[The Only Way is Forward!] Klein",
+        "weapon_type": "1H Sword"
+    },
+    "6001450": {
+        "midpoint": [
+            15,
+            128
+        ],
+        "rarity": 4,
+        "name": "[The Way Is Closed] Notte",
+        "weapon_type": "Passive"
+    },
+    "6001459": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Unstoppable Friendship] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001460": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Invincible Journey] Yuuki",
+        "weapon_type": "Passive"
+    },
+    "6001461": {
+        "midpoint": [
+            15,
+            131
+        ],
+        "rarity": 4,
+        "name": "[Hero Rises] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001462": {
+        "midpoint": [
+            15,
+            134
+        ],
+        "rarity": 4,
+        "name": "[Heart Full of Memories] Eugeo",
+        "weapon_type": "2H Axe"
+    },
+    "6001463": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Aim for the Sky] Leafa",
+        "weapon_type": "1H Sword"
+    },
+    "6001464": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[The Silent Sniper] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001465": {
+        "midpoint": [
+            15,
+            129
+        ],
+        "rarity": 4,
+        "name": "[A New Beginning] Kirito",
+        "weapon_type": "Passive"
+    },
+    "6001466": {
+        "midpoint": [
+            15,
+            91
+        ],
+        "rarity": 4,
+        "name": "[A Thousand Years With You] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001467": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[Scramble Shot] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001468": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Seize the Victory] Sachi",
+        "weapon_type": "2H Spear"
+    },
+    "6001469": {
+        "midpoint": [
+            15,
+            140
+        ],
+        "rarity": 4,
+        "name": "[Man of Fortitude] Agil",
+        "weapon_type": "2H Axe"
+    },
+    "6001470": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[Driving Blow] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001471": {
+        "midpoint": [
+            15,
+            139
+        ],
+        "rarity": 4,
+        "name": "[A Feast of Meat & Cake] Kirito",
+        "weapon_type": "1H Club"
+    },
+    "6001472": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Before the Sun Comes Up] Leafa",
+        "weapon_type": "2H Axe"
+    },
+    "6001474": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Beaming Stars & Smiles] Sanya",
+        "weapon_type": "Passive"
+    },
+    "6001479": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Let the Party Begin] Yui",
+        "weapon_type": "Passive"
+    },
+    "6001480": {
+        "midpoint": [
+            15,
+            140
+        ],
+        "rarity": 4,
+        "name": "[Spinning More Than Usual] Klein",
+        "weapon_type": "Passive"
+    },
+    "6001481": {
+        "midpoint": [
+            15,
+            136
+        ],
+        "rarity": 4,
+        "name": "[Firm Defense Stance] Diavel",
+        "weapon_type": "Shield"
+    },
+    "6001482": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Two Powers at Work Together] Silica",
+        "weapon_type": "Passive"
+    },
+    "6001483": {
+        "midpoint": [
+            15,
+            135
+        ],
+        "rarity": 4,
+        "name": "[The Man at the Lead] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001484": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Toward Tomorrow] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001485": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[With You] Koharu",
+        "weapon_type": "Dagger"
+    },
+    "6001487": {
+        "midpoint": [
+            15,
+            130
+        ],
+        "rarity": 4,
+        "name": "[New Year's of Good Fortune] Asuna",
+        "weapon_type": "Passive"
+    },
+    "6001488": {
+        "midpoint": [
+            15,
+            129
+        ],
+        "rarity": 4,
+        "name": "[Winner's Privilege] Alice",
+        "weapon_type": "1H Sword"
+    },
+    "6001489": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Celebrating the New Year] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001490": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Shining New Year Smile] Yuna",
+        "weapon_type": "1H Club"
+    },
+    "6001491": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Judgement of the Abyss] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001492": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Tuning of Chaos] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001493": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[King of the Depths] Kirito",
+        "weapon_type": "Passive"
+    },
+    "6001494": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Empress of the Abyss] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001503": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Shining Knight's Pride] Diavel",
+        "weapon_type": "Passive"
+    },
+    "6001504": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Strong Will] Diavel",
+        "weapon_type": "1H Sword"
+    },
+    "6001505": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Have a Bite] Leafa",
+        "weapon_type": "2H Axe"
+    },
+    "6001506": {
+        "midpoint": [
+            15,
+            137
+        ],
+        "rarity": 4,
+        "name": "[Sweet Temptation] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001507": {
+        "midpoint": [
+            15,
+            139
+        ],
+        "rarity": 4,
+        "name": "[A Pinch of Love] Yuuki",
+        "weapon_type": "1H Sword"
+    },
+    "6001509": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Taking the Advantage] Sachi",
+        "weapon_type": "2H Spear"
+    },
+    "6001510": {
+        "midpoint": [
+            15,
+            135
+        ],
+        "rarity": 4,
+        "name": "[Naughty Cat's Great Game] Sachi",
+        "weapon_type": "Passive"
+    },
+    "6001511": {
+        "midpoint": [
+            15,
+            134
+        ],
+        "rarity": 4,
+        "name": "[Deepening Trust] Koharu",
+        "weapon_type": "Dagger"
+    },
+    "6001512": {
+        "midpoint": [
+            15,
+            135
+        ],
+        "rarity": 4,
+        "name": "[The City Waiting for Us] Koharu",
+        "weapon_type": "1H Rapier"
+    },
+    "6001513": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[For Precious Memories] Kirito",
+        "weapon_type": "Passive"
+    },
+    "6001514": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Refined Swordwork] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001515": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Even if Slightly Taboo] Eiji",
+        "weapon_type": "1H Sword"
+    },
+    "6001516": {
+        "midpoint": [
+            15,
+            125
+        ],
+        "rarity": 4,
+        "name": "[Still More to Sing] Yuna",
+        "weapon_type": "1H Club"
+    },
+    "6001521": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[A New Power in Hand] Yuuki",
+        "weapon_type": "Passive"
+    },
+    "6001522": {
+        "midpoint": [
+            15,
+            128
+        ],
+        "rarity": 4,
+        "name": "[To the Stage Together] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001523": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Scarlet Star Singer] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001524": {
+        "midpoint": [
+            15,
+            132
+        ],
+        "rarity": 4,
+        "name": "[Jacket Girl] Alice",
+        "weapon_type": "Passive"
+    },
+    "6001529": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Shining Shopkeeper] Agil",
+        "weapon_type": "Passive"
+    },
+    "6001530": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Slashing Giant Blade] Agil",
+        "weapon_type": "2H Axe"
+    },
+    "6001531": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[Attack From the Forest] Philia",
+        "weapon_type": "Passive"
+    },
+    "6001532": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Easy Leap] Philia",
+        "weapon_type": "Dagger"
+    },
+    "6001541": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Rabbit Crown] Agil",
+        "weapon_type": "Passive"
+    },
+    "6001542": {
+        "midpoint": [
+            15,
+            136
+        ],
+        "rarity": 4,
+        "name": "[Chase the Hare] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001543": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Sunlight Through the Trees] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001544": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[A Wonderful Encounter] Sanya",
+        "weapon_type": "Passive"
+    },
+    "6001545": {
+        "midpoint": [
+            15,
+            125
+        ],
+        "rarity": 4,
+        "name": "[Warm Embrace] Koharu",
+        "weapon_type": "2H Spear"
+    },
+    "6001546": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Traces of Thorn] Eugeo",
+        "weapon_type": "1H Sword"
+    },
+    "6001547": {
+        "midpoint": [
+            15,
+            133
+        ],
+        "rarity": 4,
+        "name": "[Scorching Ice Strike] Eugeo",
+        "weapon_type": "Passive"
+    },
+    "6001548": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Integrity Knight's Will] Alice",
+        "weapon_type": "1H Sword"
+    },
+    "6001549": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Flower Field Reminiscence] Alice",
+        "weapon_type": "Passive"
+    },
+    "6001550": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[The Swing of a Mighty Blade] Leafa",
+        "weapon_type": "2H Axe"
+    },
+    "6001551": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[To the Castle in the Sky] Leafa",
+        "weapon_type": "1H Sword"
     }
 }

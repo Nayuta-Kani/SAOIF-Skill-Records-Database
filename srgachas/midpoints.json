@@ -11977,5 +11977,23 @@
         "rarity": 4,
         "name": "[To the Castle in the Sky] Leafa",
         "weapon_type": "1H Sword"
+    },
+    "6001359": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Beast Girl in Full Bloom] Yuuki",
+        "weapon_type": "1H Rapier"
+    },
+    "6001361": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Mischievous Beast] Argo",
+        "weapon_type": "Dagger"
     }
 }

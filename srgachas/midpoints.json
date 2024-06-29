@@ -11995,5 +11995,347 @@
         "rarity": 4,
         "name": "[Mischievous Beast] Argo",
         "weapon_type": "Dagger"
+    },
+    "6001123": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Sacred Blessing] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001124": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Unfaltering Guidance] Agil",
+        "weapon_type": "2H Axe"
+    },
+    "6001125": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Messenger of Prayer] Sachi",
+        "weapon_type": "2H Spear"
+    },
+    "6001126": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Sister of Unpredictability] Yuuki",
+        "weapon_type": "Passive"
+    },
+    "6001358": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Blade of the Beast] Kirito",
+        "weapon_type": "Passive"
+    },
+    "6001360": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Flowery Beast Girl] Koharu",
+        "weapon_type": "2H Spear"
+    },
+    "6001436": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Proud Heart] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001437": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Heavenly Dancing Light] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001438": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Breath of Abundance] Leafa",
+        "weapon_type": "1H Sword"
+    },
+    "6001439": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Hammer of Fiery Dust] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001440": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Raging Storm] Silica",
+        "weapon_type": "Dagger"
+    },
+    "6001441": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Resurrecting Clash] Yuuki",
+        "weapon_type": "Passive"
+    },
+    "6001560": {
+        "midpoint": [
+            15,
+            134
+        ],
+        "rarity": 4,
+        "name": "[Rampaging Cannon] Sinon",
+        "weapon_type": "Passive"
+    },
+    "6001561": {
+        "midpoint": [
+            15,
+            131
+        ],
+        "rarity": 4,
+        "name": "[Commander in the Storm] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001562": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Howl of the Heavens] Sachi",
+        "weapon_type": "2H Spear"
+    },
+    "6001563": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Dashing Through the Storm] Silica",
+        "weapon_type": "Dagger"
+    },
+    "6001564": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Gallant Fighter] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001565": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Smith's Masterpiece] Lisbeth",
+        "weapon_type": "Passive"
+    },
+    "6001566": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Lightning Sword Flash] Yuuki",
+        "weapon_type": "1H Sword"
+    },
+    "6001567": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Time We Spend Together] Yuuki",
+        "weapon_type": "Passive"
+    },
+    "6001568": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Freshly Sharpened Nails] Argo",
+        "weapon_type": "Passive"
+    },
+    "6001573": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Outlaw Wolf] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001574": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Carefree Wolf Boy] Eugeo",
+        "weapon_type": "2H Axe"
+    },
+    "6001575": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Lollipop Wolf] Leafa",
+        "weapon_type": "Passive"
+    },
+    "6001576": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Wolf Town Mascot] Yuna",
+        "weapon_type": "1H Club"
+    },
+    "6001577": {
+        "midpoint": [
+            15,
+            144
+        ],
+        "rarity": 4,
+        "name": "[Japanese Bride] Koharu",
+        "weapon_type": "Passive"
+    },
+    "6001578": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Rainbow Omen] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001579": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[With My Beloved Sword] Leafa",
+        "weapon_type": "1H Sword"
+    },
+    "6001580": {
+        "midpoint": [
+            15,
+            135
+        ],
+        "rarity": 4,
+        "name": "[White Kimono Debut] Silica",
+        "weapon_type": "Dagger"
+    },
+    "6001581": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Bewitching Blade] Argo",
+        "weapon_type": "Dagger"
+    },
+    "6001582": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Step Into the Unknown] Argo",
+        "weapon_type": "Passive"
+    },
+    "6001583": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[Countless Swordlight] Rain",
+        "weapon_type": "1H Sword"
+    },
+    "6001584": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Sweet Time by the Window] Rain",
+        "weapon_type": "Passive"
+    },
+    "6001585": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Seasoned Swordsman] Diavel",
+        "weapon_type": "Passive"
+    },
+    "6001602": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Waterfront Warfare] Yuuki",
+        "weapon_type": "1H Sword"
+    },
+    "6001603": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Memories of Summer] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001604": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Rocked by the Waves] Leafa",
+        "weapon_type": "Passive"
+    },
+    "6001605": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Seaside Maiden] Lisbeth",
+        "weapon_type": "1H Club"
     }
 }

@@ -12337,5 +12337,41 @@
         "rarity": 4,
         "name": "[Seaside Maiden] Lisbeth",
         "weapon_type": "1H Club"
+    },
+    "6001594": {
+        "midpoint": [
+            15,
+            129
+        ],
+        "rarity": 4,
+        "name": "[Heir to the Sword] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001595": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Together For Eternity] Yuuki",
+        "weapon_type": "Passive"
+    },
+    "6001596": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Strength to Accept the Past] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001597": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Strength to Change Oneself] Sinon",
+        "weapon_type": "Bow"
     }
 }

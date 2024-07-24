@@ -12373,5 +12373,95 @@
         "rarity": 4,
         "name": "[Strength to Change Oneself] Sinon",
         "weapon_type": "Bow"
+    },
+    "6001598": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[New Era] Kirito",
+        "weapon_type": "Passive"
+    },
+    "6001599": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Together in This World] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001600": {
+        "midpoint": [
+            15,
+            117
+        ],
+        "rarity": 4,
+        "name": "[The Premier Knight] Alice",
+        "weapon_type": "1H Sword"
+    },
+    "6001601": {
+        "midpoint": [
+            15,
+            135
+        ],
+        "rarity": 4,
+        "name": "[The Frozen Integrity Knight] Eugeo",
+        "weapon_type": "Passive"
+    },
+    "6001606": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Lit-Up Star] Yuna",
+        "weapon_type": "2H Spear"
+    },
+    "6001607": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[Night Sky Concert Stage] Yuna",
+        "weapon_type": "1H Club"
+    },
+    "6001616": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Slipping Between Bullets] LLENN",
+        "weapon_type": "Passive"
+    },
+    "6001617": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[A World to Dive Into] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001618": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[To the Skies of Freedom] Koharu",
+        "weapon_type": "Dagger"
+    },
+    "6001619": {
+        "midpoint": [
+            15,
+            139
+        ],
+        "rarity": 4,
+        "name": "[Fighting Spirit] LLENN",
+        "weapon_type": "Passive"
     }
 }

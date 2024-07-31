@@ -12463,5 +12463,41 @@
         "rarity": 4,
         "name": "[Fighting Spirit] LLENN",
         "weapon_type": "Passive"
+    },
+    "6001624": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Death-Destroying Blade] Yui",
+        "weapon_type": "1H Sword"
+    },
+    "6001625": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[The View From Here] Yui",
+        "weapon_type": "Passive"
+    },
+    "6001626": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Whirlwind of Blades] Mito",
+        "weapon_type": "2H Axe"
+    },
+    "6001627": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Midnight Duel] Mito",
+        "weapon_type": "Passive"
     }
 }

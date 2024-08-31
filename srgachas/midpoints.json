@@ -12499,5 +12499,185 @@
         "rarity": 4,
         "name": "[Midnight Duel] Mito",
         "weapon_type": "Passive"
+    },
+    "6001499": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Heavenly Leap] Yuuki",
+        "weapon_type": "Dagger"
+    },
+    "6001500": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Melody Under the Moon] Leafa",
+        "weapon_type": "Passive"
+    },
+    "6001501": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[One Away From the Goal] Sachi",
+        "weapon_type": "2H Spear"
+    },
+    "6001502": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Drop Your Weapon] Agil",
+        "weapon_type": "2H Axe"
+    },
+    "6001620": {
+        "midpoint": [
+            15,
+            129
+        ],
+        "rarity": 4,
+        "name": "[Big Flowers in the Sky] Alice",
+        "weapon_type": "1H Sword"
+    },
+    "6001621": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Flowers in the Night Sky] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001622": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[Always Get What You Want] Kirito",
+        "weapon_type": "Passive"
+    },
+    "6001623": {
+        "midpoint": [
+            15,
+            130
+        ],
+        "rarity": 4,
+        "name": "[Sweet Summer Memories] Koharu",
+        "weapon_type": "1H Club"
+    },
+    "6001628": {
+        "midpoint": [
+            15,
+            140
+        ],
+        "rarity": 4,
+        "name": "[Unleashed Arrow] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001629": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[Ice Sniper] Sinon",
+        "weapon_type": "Passive"
+    },
+    "6001634": {
+        "midpoint": [
+            15,
+            128
+        ],
+        "rarity": 4,
+        "name": "[Workplace Confusion] Lisbeth",
+        "weapon_type": "Passive"
+    },
+    "6001635": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Aiming for the Future] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001636": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Beyond the Light] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001637": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Crystallized Thoughts] Kirito",
+        "weapon_type": "Passive"
+    },
+    "6001638": {
+        "midpoint": [
+            15,
+            132
+        ],
+        "rarity": 4,
+        "name": "[Afternoon Hospitality] Alice",
+        "weapon_type": "1H Sword"
+    },
+    "6001639": {
+        "midpoint": [
+            15,
+            136
+        ],
+        "rarity": 4,
+        "name": "[Stepping Out of the Carriage] Eugeo",
+        "weapon_type": "2H Axe"
+    },
+    "6001640": {
+        "midpoint": [
+            15,
+            139
+        ],
+        "rarity": 4,
+        "name": "[Impeccable Service] Yuna",
+        "weapon_type": "1H Club"
+    },
+    "6001641": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Preparing for Guests] Koharu",
+        "weapon_type": "Passive"
+    },
+    "6001642": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[The Flash of a Sword] Eydis",
+        "weapon_type": "1H Sword"
+    },
+    "6001643": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Concentrated Ambition] Eydis",
+        "weapon_type": "Passive"
     }
 }

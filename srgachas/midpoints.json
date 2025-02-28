@@ -13408,5 +13408,239 @@
         "rarity": 4,
         "name": "[New Year's Resolution] Koharu",
         "weapon_type": "1H Club"
+    },
+    "6000985": {
+        "midpoint": [
+            15,
+            121
+        ],
+        "rarity": 4,
+        "name": "[Girl Embracing the Past] Silica",
+        "weapon_type": "Passive"
+    },
+    "6000986": {
+        "midpoint": [
+            15,
+            147
+        ],
+        "rarity": 4,
+        "name": "[Fossil Collector] Argo",
+        "weapon_type": "Dagger"
+    },
+    "6000987": {
+        "midpoint": [
+            15,
+            128
+        ],
+        "rarity": 4,
+        "name": "[With Ancient Memories] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6000988": {
+        "midpoint": [
+            15,
+            160
+        ],
+        "rarity": 4,
+        "name": "[Fascination With the Past] Yuuki",
+        "weapon_type": "1H Sword"
+    },
+    "6001569": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Demon's Aura] Alice",
+        "weapon_type": "Passive"
+    },
+    "6001570": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Approaching Crimson Demon] Koharu",
+        "weapon_type": "1H Club"
+    },
+    "6001571": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Brute Force Blow] Agil",
+        "weapon_type": "2H Axe"
+    },
+    "6001572": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[A Little Demon Appears] Yui",
+        "weapon_type": "Passive"
+    },
+    "6001723": {
+        "midpoint": [
+            15,
+            130
+        ],
+        "rarity": 4,
+        "name": "[Indomitable Strength] Sachi",
+        "weapon_type": "Passive"
+    },
+    "6001728": {
+        "midpoint": [
+            15,
+            136
+        ],
+        "rarity": 4,
+        "name": "[Wholehearted] Koharu",
+        "weapon_type": "Passive"
+    },
+    "6001729": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Sweet Heart] Alice",
+        "weapon_type": "1H Sword"
+    },
+    "6001730": {
+        "midpoint": [
+            15,
+            134
+        ],
+        "rarity": 4,
+        "name": "[Sweet Happiness] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001731": {
+        "midpoint": [
+            15,
+            140
+        ],
+        "rarity": 4,
+        "name": "[Shape of Affection] Yui",
+        "weapon_type": "2H Axe"
+    },
+    "6001732": {
+        "midpoint": [
+            15,
+            134
+        ],
+        "rarity": 4,
+        "name": "[Power Beyond Peril] Sachi",
+        "weapon_type": "2H Spear"
+    },
+    "6001733": {
+        "midpoint": [
+            15,
+            138
+        ],
+        "rarity": 4,
+        "name": "[Freshly Baked Charm] Sachi",
+        "weapon_type": "2H Spear"
+    },
+    "6001734": {
+        "midpoint": [
+            15,
+            136
+        ],
+        "rarity": 4,
+        "name": "[Time for a Challenge] Koharu",
+        "weapon_type": "Dagger"
+    },
+    "6001735": {
+        "midpoint": [
+            15,
+            132
+        ],
+        "rarity": 4,
+        "name": "[Angel-Like Partner] Koharu",
+        "weapon_type": "Dagger"
+    },
+    "6001736": {
+        "midpoint": [
+            15,
+            137
+        ],
+        "rarity": 4,
+        "name": "[Relentless Advance] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001737": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Smooth Cover Fire] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001738": {
+        "midpoint": [
+            15,
+            140
+        ],
+        "rarity": 4,
+        "name": "[Inspiring Song] Yuna",
+        "weapon_type": "1H Club"
+    },
+    "6001739": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Strayer Into Evil] Eiji",
+        "weapon_type": "Passive"
+    },
+    "6001740": {
+        "midpoint": [
+            15,
+            133
+        ],
+        "rarity": 4,
+        "name": "[Time to Show Your Worth] Silica",
+        "weapon_type": "Passive"
+    },
+    "6001745": {
+        "midpoint": [
+            15,
+            137
+        ],
+        "rarity": 4,
+        "name": "[Special Arrangement] Silica",
+        "weapon_type": "Dagger"
+    },
+    "6001746": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[House Specialty Cake] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001747": {
+        "midpoint": [
+            15,
+            140
+        ],
+        "rarity": 4,
+        "name": "[Harmony of Roses] Eugeo",
+        "weapon_type": "2H Axe"
+    },
+    "6001748": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[White Baking] Sinon",
+        "weapon_type": "Passive"
     }
 }

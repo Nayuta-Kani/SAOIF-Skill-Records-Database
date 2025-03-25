@@ -13642,5 +13642,86 @@
         "rarity": 4,
         "name": "[White Baking] Sinon",
         "weapon_type": "Passive"
+    },
+    "6000994": {
+        "midpoint": [
+            15,
+            131
+        ],
+        "rarity": 4,
+        "name": "[After-School Anticipation] Lisbeth",
+        "weapon_type": "Passive"
+    },
+    "6000995": {
+        "midpoint": [
+            15,
+            132
+        ],
+        "rarity": 4,
+        "name": "[Innocent Girl] Sachi",
+        "weapon_type": "2H Spear"
+    },
+    "6000996": {
+        "midpoint": [
+            15,
+            130
+        ],
+        "rarity": 4,
+        "name": "[Intriguing Classmate] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001279": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Aerial Dance] Koharu",
+        "weapon_type": "2H Axe"
+    },
+    "6001280": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Tornado Sword Dance] Eugeo",
+        "weapon_type": "Passive"
+    },
+    "6001281": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Permeating Dance] Argo",
+        "weapon_type": "Dagger"
+    },
+    "6001282": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Armed Dance] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001749": {
+        "midpoint": [
+            15,
+            130
+        ],
+        "rarity": 4,
+        "name": "[Warrior's Aura] Agil",
+        "weapon_type": "2H Axe"
+    },
+    "6001750": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Iron Tempest] Agil",
+        "weapon_type": "Passive"
     }
 }

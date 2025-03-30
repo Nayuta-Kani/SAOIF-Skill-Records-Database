@@ -13723,5 +13723,32 @@
         "rarity": 4,
         "name": "[Iron Tempest] Agil",
         "weapon_type": "Passive"
+    },
+    "6000993": {
+        "midpoint": [
+            15,
+            129
+        ],
+        "rarity": 4,
+        "name": "[Mysterious Classmate] Eugeo",
+        "weapon_type": "1H Sword"
+    },
+    "6001751": {
+        "midpoint": [
+            15,
+            132
+        ],
+        "rarity": 4,
+        "name": "[Jackpot Fever] Philia",
+        "weapon_type": "Dagger"
+    },
+    "6001752": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Epic Getaway] Philia",
+        "weapon_type": "Passive"
     }
 }

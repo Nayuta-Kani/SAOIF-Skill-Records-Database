@@ -13750,5 +13750,41 @@
         "rarity": 4,
         "name": "[Epic Getaway] Philia",
         "weapon_type": "Passive"
+    },
+    "6001761": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[A Rice & Noodle Harmony] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001763": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Elegant Ryotei] Eugeo",
+        "weapon_type": "2H Axe"
+    },
+    "6001764": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Batter on the Grill] Silica",
+        "weapon_type": "Dagger"
+    },
+    "6001765": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Clockwork Pixie] Yui",
+        "weapon_type": "Passive"
     }
 }

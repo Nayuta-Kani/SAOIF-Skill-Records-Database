@@ -13786,5 +13786,23 @@
         "rarity": 4,
         "name": "[Clockwork Pixie] Yui",
         "weapon_type": "Passive"
+    },
+    "6001766": {
+        "midpoint": [
+            15,
+            130
+        ],
+        "rarity": 4,
+        "name": "[Noble Will] Alice",
+        "weapon_type": "1H Sword"
+    },
+    "6001767": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Unleashed Power] Alice",
+        "weapon_type": "Passive"
     }
 }

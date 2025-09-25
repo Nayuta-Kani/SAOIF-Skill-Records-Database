@@ -14641,5 +14641,32 @@
         "rarity": 4,
         "name": "[A Will to Defy Fate] Eydis",
         "weapon_type": "Passive"
+    },
+    "6001855": {
+        "midpoint": [
+            15,
+            127
+        ],
+        "rarity": 4,
+        "name": "[Creation & Rebirth] Asuna",
+        "weapon_type": "Passive"
+    },
+    "6001856": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Flash of Fury] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001857": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Luck on the Line] Nishida",
+        "weapon_type": "Passive"
     }
 }

@@ -14668,5 +14668,356 @@
         "rarity": 4,
         "name": "[Luck on the Line] Nishida",
         "weapon_type": "Passive"
+    },
+    "6001608": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Turning Point of Destiny] Yuuki",
+        "weapon_type": "1H Sword"
+    },
+    "6001609": {
+        "midpoint": [
+            15,
+            133
+        ],
+        "rarity": 4,
+        "name": "[Orderly Judgement] Koharu",
+        "weapon_type": "1H Club"
+    },
+    "6001610": {
+        "midpoint": [
+            15,
+            137
+        ],
+        "rarity": 4,
+        "name": "[Delicate Balance] Silica",
+        "weapon_type": "Dagger"
+    },
+    "6001611": {
+        "midpoint": [
+            15,
+            135
+        ],
+        "rarity": 4,
+        "name": "[Joy of Harmony] Sachi",
+        "weapon_type": "Passive"
+    },
+    "6001866": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Revival Strike] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001867": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[When the Battle Ends] Kirito",
+        "weapon_type": "Passive"
+    },
+    "6001868": {
+        "midpoint": [
+            15,
+            130
+        ],
+        "rarity": 4,
+        "name": "[Power of Bonds] Silica",
+        "weapon_type": "Dagger"
+    },
+    "6001869": {
+        "midpoint": [
+            15,
+            125
+        ],
+        "rarity": 4,
+        "name": "[Colorful Connection] Silica",
+        "weapon_type": "Passive"
+    },
+    "6001870": {
+        "midpoint": [
+            15,
+            129
+        ],
+        "rarity": 4,
+        "name": "[Leading the Envoys] Sanya",
+        "weapon_type": "1H Sword"
+    },
+    "6001871": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Starlit Halloween] Sanya",
+        "weapon_type": "Passive"
+    },
+    "6001872": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[Hand in Hand] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001873": {
+        "midpoint": [
+            15,
+            128
+        ],
+        "rarity": 4,
+        "name": "[Happy Bond] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001874": {
+        "midpoint": [
+            15,
+            132
+        ],
+        "rarity": 4,
+        "name": "[Confidence Restored] Diavel",
+        "weapon_type": "Passive"
+    },
+    "6001876": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Cursed Arrow of Chaos] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001877": {
+        "midpoint": [
+            15,
+            136
+        ],
+        "rarity": 4,
+        "name": "[Retribution of Chaos] Agil",
+        "weapon_type": "Passive"
+    },
+    "6001879": {
+        "midpoint": [
+            15,
+            134
+        ],
+        "rarity": 4,
+        "name": "[Candy for Everyone] Alice",
+        "weapon_type": "Passive"
+    },
+    "6001880": {
+        "midpoint": [
+            15,
+            137
+        ],
+        "rarity": 4,
+        "name": "[All-Out Halloween] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001881": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Nighttime Crawl] Agil",
+        "weapon_type": "2H Axe"
+    },
+    "6001882": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[A Burst of Halloween Power] Klein",
+        "weapon_type": "2H Spear"
+    },
+    "6001883": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[The Celebration Begins] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001884": {
+        "midpoint": [
+            15,
+            129
+        ],
+        "rarity": 4,
+        "name": "[Prism of the Night] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001885": {
+        "midpoint": [
+            15,
+            126
+        ],
+        "rarity": 4,
+        "name": "[A World Together] Koharu",
+        "weapon_type": "Dagger"
+    },
+    "6001886": {
+        "midpoint": [
+            15,
+            133
+        ],
+        "rarity": 4,
+        "name": "[Roaring Strongarm] Agil",
+        "weapon_type": "2H Axe"
+    },
+    "6001887": {
+        "midpoint": [
+            15,
+            135
+        ],
+        "rarity": 4,
+        "name": "[Piercing Resolve] Sachi",
+        "weapon_type": "2H Spear"
+    },
+    "6001888": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Hammer of Destruction] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001889": {
+        "midpoint": [
+            15,
+            135
+        ],
+        "rarity": 4,
+        "name": "[An Arrow of Emotion] Sinon",
+        "weapon_type": "Bow"
+    },
+    "6001890": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Aiming for the Gap] Silica",
+        "weapon_type": "Passive"
+    },
+    "6001891": {
+        "midpoint": [
+            15,
+            137
+        ],
+        "rarity": 4,
+        "name": "[Autumn Leaf Teahouse] Alice",
+        "weapon_type": "1H Sword"
+    },
+    "6001892": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Secret Autumn Bonfire] Leafa",
+        "weapon_type": "2H Axe"
+    },
+    "6001893": {
+        "midpoint": [
+            15,
+            136
+        ],
+        "rarity": 4,
+        "name": "[Autumn-Colored Gift] Silica",
+        "weapon_type": "Passive"
+    },
+    "6001894": {
+        "midpoint": [
+            15,
+            140
+        ],
+        "rarity": 4,
+        "name": "[Joyful Autumn Harvest] Lisbeth",
+        "weapon_type": "1H Club"
+    },
+    "6001895": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Thunder Incarnate] Klein",
+        "weapon_type": "1H Sword"
+    },
+    "6001896": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Soulful Margherita] Klein",
+        "weapon_type": "Passive"
+    },
+    "6001897": {
+        "midpoint": [
+            15,
+            139
+        ],
+        "rarity": 4,
+        "name": "[Shaking Off Conflict] Notte",
+        "weapon_type": "1H Sword"
+    },
+    "6001898": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[With Roaring Thunder] Strea",
+        "weapon_type": "1H Sword"
+    },
+    "6001899": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Reminiscent Smile] Strea",
+        "weapon_type": "Passive"
+    },
+    "6001905": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Stone-Cleaving Spirit] Kirito",
+        "weapon_type": "1H Sword"
+    },
+    "6001906": {
+        "midpoint": [
+            15,
+            141
+        ],
+        "rarity": 4,
+        "name": "[Ace of Triumph] Asuna",
+        "weapon_type": "1H Rapier"
+    },
+    "6001907": {
+        "midpoint": [
+            15,
+            142
+        ],
+        "rarity": 4,
+        "name": "[Stone Rampart] Heathcliff",
+        "weapon_type": "Passive"
     }
 }
